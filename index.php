@@ -1,5 +1,6 @@
 <?php
-echo "Links";
-echo "<a href="host.php">Hosts</a>";
+
+<h1>Links</h1>
+<a href='host.php'>Hosts</a>
 
 ?>
