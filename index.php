@@ -1,5 +1,5 @@
 <?php
-
-echo "NEW test"
+echo "Links"
+echo "<a href="host.php">Hosts</a>"
 
 ?>
