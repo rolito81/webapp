@@ -1,6 +1,6 @@
 <html>
 
-<h1>Links OTHERS</h1>
+<h1>this is pretty cool...!!!</h1>
 <a href='host.php'>Hosts</a>
 
 </html>
