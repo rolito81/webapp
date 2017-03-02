@@ -1,6 +1,5 @@
 <html>
 
-<h1>ECS ROCKS!!!</h1>
-<a href='host.php'>Hosts</a>
+<h1>ECS ROCKS!!! WebApp1</h1>
 
 </html>
